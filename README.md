@@ -11,6 +11,12 @@ power-up tokens that a player can collect to increase their speed, gain
 the ability to kill the ghosts, and gain an extra life.
 
 ## Contribution
+This project was developed by a group of four.
+Group Members: 
+Patrick Boyle
+Susana Jaimes 
+Sam La
+
 I mostly worked on the modeling and animation of the enemy ghosts. I 
 decided to have the ghost body move like a cloth to try to make it a 
 little more realistic.
