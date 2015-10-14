@@ -26,4 +26,4 @@ chase mode, the body is slanted forward.
 ghostChaseAnimation - blender file that includes the animation of ghost 
 in chase mode
 
-![alt tagl](https://raw.github.com/yhern006/3D_Pacman/master/path/to/ghost_gif.gif)
+![alt tag](https://raw.github.com/yhern006/3D_Pacman/master/path/to/ghost_gif.gif)
