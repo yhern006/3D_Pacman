@@ -2,6 +2,7 @@
 [CS 179N] Senior Design in Computer Graphics / Electronic Games
 
 3D Game developed on Unity and inspired by Pacman set in a haunted house.
+Official name of the game is !3D Pacman.
 
 Goal of the game is to collect various puzzle pieces that are scattered
 around the haunted house while avoiding the patrolling enemy ghosts.
@@ -27,3 +28,6 @@ ghostChaseAnimation - blender file that includes the animation of ghost
 in chase mode
 
 ghost_gif.gif - gif file of ghost in chase mode
+
+### Link
+Game Trailer: https://www.youtube.com/watch?v=UUKrm8Cqw60&feature=youtu.be
